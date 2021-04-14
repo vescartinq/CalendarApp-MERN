@@ -11,6 +11,8 @@
 
 ---
 
+![calendar-app](https://user-images.githubusercontent.com/65297719/114702731-ba01dd80-9d24-11eb-9851-63c3b83f8db4.jpg)
+
 ## 1. General Info
 
 This app has been created with React using REDUX architecture, and is built with
