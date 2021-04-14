@@ -51,7 +51,7 @@ A list of technologies used within the project:
 A little intro about the installation:
 
 ```
-$ git clone https://github.com/vescartinq/NOALONE-Skylab-final-project-REACT-REDUX.git
+$ git clone https://github.com/vescartinq/CalendarApp-MERN.git
 
 $ cd backend
 $ npm install
