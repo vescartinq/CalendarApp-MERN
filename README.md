@@ -27,7 +27,7 @@ the following technologies:
 
 ## 2. Web Example
 
-You can enter to the app here :
+You can check the app here :
 
 - https://mern-calendar-app-venn.herokuapp.com/
 
